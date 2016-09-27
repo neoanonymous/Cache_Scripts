@@ -1,0 +1,1 @@
+[500,-1,false,50,500,500]execvm "cache\main.sqf"; // Caching scripts
